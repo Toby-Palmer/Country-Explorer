@@ -1,13 +1,5 @@
 # Country-Explorer
 
-# 🌍 World Explorer
-
-A Java-based desktop application that allows users to explore, compare, and interact with global country data through an intuitive graphical interface.
-
-The application integrates with a REST API to retrieve real-world country information and demonstrates practical implementation of API communication, JSON processing, object-oriented programming, data visualisation, and persistent storage.
-
----
-
 ## ✨ Features
 
 ### 🌎 Country Search
