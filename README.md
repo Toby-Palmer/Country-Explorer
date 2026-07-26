@@ -1,4 +1,6 @@
 # Country-Explorer
+<img width="898" height="659" alt="Screenshot 2026-07-26 at 22 58 21" src="https://github.com/user-attachments/assets/5f74a977-e5aa-4d5f-b86f-9e949f6a24a6" />
+
 
 ## ✨ Features
 
